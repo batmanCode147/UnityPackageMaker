@@ -5,7 +5,7 @@ namespace UnityPackageMaker.Editor
     public static class GuiConstants
     {
         public const string PackageMakerName = "Package Maker";
-        public const string PackageMakerMenuItemPath = "Raz's Tools/Package Maker";
+        public const string PackageMakerMenuItemPath = "Tools/Raz's Package Maker";
         public const string PackageMakerToolsUrl = "https://github.com/razluta/UnityPackageMaker";
         
         public const string HeaderUxmlPath = "BT_Header";
